@@ -11,7 +11,7 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso de versionament
 
 | Aulas | Resumos |
 |-------|---------|
-| Primeiros passos no git | definição de um usuário git e um email de commit|
+| Primeiros passos no git | definição de um usuário/email git|
 
 - Exemplo
 ``` 
